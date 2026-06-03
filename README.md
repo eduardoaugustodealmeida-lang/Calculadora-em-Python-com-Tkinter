@@ -5,15 +5,20 @@ A interface foi inspirada em calculadoras modernas, utilizando diferentes cores 
 
 O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de programação em Python, incluindo funções, variáveis globais, tratamento de eventos, interfaces gráficas e manipulação de expressões matemáticas. Além de servir como exercício de aprendizado, a aplicação demonstra como criar softwares desktop simples e funcionais utilizando apenas bibliotecas nativas da linguagem.
 
-Tecnologias utilizadas:
-• Python 3
-• Tkinter (GUI)
+## Tecnologias utilizadas:
 
-Funcionalidades:
-• Operações básicas (+, -, ×, ÷)
-• Porcentagem (%)
-• Troca de sinal (+/-)
-• Raiz quadrada (√)
-• Números decimais
-• Botão de limpeza (AC)
-• Interface gráfica intuitiva
+- Python 3
+- Tkinter (GUI)
+
+## Funcionalidades:
+
+- Operações básicas: adição, subtração, multiplicação e divisão
+- Cálculo de porcentagem (%)
+- Inversão de sinal (+/-)
+- Raiz quadrada (√)
+- Suporte a números decimais
+- Botão de limpeza (AC)
+- Interface gráfica intuitiva
+- Janela centralizada automaticamente na tela
+
+Este projeto foi desenvolvido com fins educacionais e de aprimoramento das habilidades de programação, demonstrando a aplicação prática de conceitos fundamentais de Python no desenvolvimento de softwares com interface gráfica.
